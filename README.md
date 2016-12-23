@@ -76,12 +76,12 @@ Then you can open ```localhost:4096``` in you browser
 
 ## Releated projects
 
-- [acme_docs](https://github.com/0769tom/acme_docs)
+
 - [acme-frontend](https://github.com/0769tom/acme-frontend)
 - [acme-cli](https://github.com/0769tom/acme-cli)
 - [acme-js](https://github.com/0769tom/acme-js)
 - [acme-sandbox](https://github.com/0769tom/acme-sandbox)
-- [acme-dice-game-dapp](https://github.com/0769tom/acme-dice-game-dapp)
+
 
 ## License
 
